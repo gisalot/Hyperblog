@@ -46,3 +46,7 @@ footer {
     margin: 0 auto;
     border: 1px solid purple;
 }
+figure img {
+    width: 100%;
+
+}
